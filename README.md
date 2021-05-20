@@ -1,2 +1,2 @@
-20213092	snacktime
+snacktime:20213092
 kookmin univ. SW
